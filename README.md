@@ -23,3 +23,4 @@ podman push <registry_route_or_server_path>/vddk:<tag>
 
 1. [OpenShift Docs](https://docs.redhat.com/en/documentation/migration_toolkit_for_virtualization/2.7/html/installing_and_using_the_migration_toolkit_for_virtualization/prerequisites_mtv#creating-vddk-image_mtv)
 2. [Broadcom Download Page](https://developer.vmware.com/web/sdk/8.0/vddk)
+3. [MTV Blog](https://www.redhat.com/en/blog/migrating-virtual-machines-vsphere-red-hat-openshift-virtualization-migration-toolkit-virtualization)
